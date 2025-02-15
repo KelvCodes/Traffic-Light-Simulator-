@@ -8,7 +8,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 ## 🌟 Features  
 ✅ **🔴🟡🟢 Realistic Traffic Light Simulation** – Lights transition in a timed cycle.
 ✅**🗣️ Text-to-Speech** – Announces light changes for visually impaired users. 
-✅ **📈 Visual Expense Chart** – Get a clear overview with a **pie chart** (powered by Chart.js).
+✅**📳 Haptic Feedback** – Vibrates on mobile when the green light appears.
 ✅ **🛠 Local Storage Support** – Your data is **saved automatically** and won’t disappear on refresh. 
 ✅ **⏳ Budget Limit Alert** – Get notified when spending exceeds your set limit.
 ✅ **🖥️ Simple & Responsive UI** – A clean and user-friendly interface, optimized for all devices. 
