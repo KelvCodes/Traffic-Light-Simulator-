@@ -12,6 +12,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 
 ✅ **📳 Haptic Feedback** – Vibrates on mobile when the green light appears.
 ✅ **📌 Simple UI** – A clean, minimalistic, and user-friendly interface.
+
 ✅ **⏳ Budget Limit Alert** – Get notified when spending exceeds your set limit.
 ✅ **🖥️ Simple & Responsive UI** – A clean and user-friendly interface, optimized for all devices. 
 ✅ **🔁 Delete Expenses** – Remove unnecessary entries with one click.  
