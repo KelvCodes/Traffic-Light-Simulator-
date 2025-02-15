@@ -26,7 +26,8 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 2.**Lights change every 3 seconds** in this order: 
    - 🔴 **Red:** *"Stop, the light is red."*  
    - 🟡 **Yellow:** *"Get ready, the light is yellow."*  
-   - 🟢 **Green:** *"Walk now, the light is green."* (🔊 + 📳 Vibration on mobile)  
+   - 🟢 **Green:** *"Walk now, the light is green."* (🔊 + 📳 Vibration on mobile)
+ 3. **Click "Stop Simulation"** to pause the traffic light.
 ## 📜 Live Demo
 🔗 **[Try It Now](https://your-github-username.github.io/expense-tracker/)**  
 
