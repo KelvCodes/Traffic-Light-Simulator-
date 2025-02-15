@@ -1,4 +1,4 @@
-
+# 🚦 Accessible Traffic Light Simulator 
 
 Welcome to **Smart Expense Tracker!** 🎉  
 A simple and intuitive web app designed to help you **track your daily expenses**, analyze spending habits, and stay within budget.  
