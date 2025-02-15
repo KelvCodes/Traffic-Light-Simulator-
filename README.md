@@ -1,8 +1,7 @@
 # 🚦 Accessible Traffic Light Simulator 
 
-Welcome to **Smart Expense Tracker!** 🎉  
-A simple and intuitive web app designed to help you **track your daily expenses**, analyze spending habits, and stay within budget.  
-Built using **HTML**, **CSS**, and **JavaScript**, this app is lightweight, fast, and runs entirely in the browser—no backend needed! 
+A **simple, interactive, and accessible** traffic light system designed for **pedestrians**, including **visually impaired users**.  
+This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic light with **voice alerts** and **haptic feedback (vibration on mobile devices)** for inclusivity. 
 
 ---
 
