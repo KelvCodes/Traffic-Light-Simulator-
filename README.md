@@ -6,7 +6,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 ---
 
 ## 🌟 Features  
-✅ 
+✅ **🔴🟡🟢 Realistic Traffic Light Simulation** – Lights transition in a timed cycle.
 ✅ **📌 Categorized Spending** – Assign expenses to categories for better insights. 
 ✅ **📈 Visual Expense Chart** – Get a clear overview with a **pie chart** (powered by Chart.js).
 ✅ **🛠 Local Storage Support** – Your data is **saved automatically** and won’t disappear on refresh. 
