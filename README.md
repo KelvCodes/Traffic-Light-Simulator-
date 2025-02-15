@@ -16,7 +16,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 
 ✅ **🔁 Start & Stop Controls** – Manage the simulation with buttons.
 
-✅ **🖥️ Simple & Responsive UI** – A clean and user-friendly interface, optimized for all devices. 
+✅ **💾 No Backend Required** – Fully runs in the browser using **vanilla JavaScript**.
 ✅ **🔁 Delete Expenses** – Remove unnecessary entries with one click.  
 
 ---
