@@ -24,11 +24,9 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 ## 🚀 How to Use 
 1. **Click "Start Simulation"** to begin the traffic light cycle. 
 2.**Lights change every 3 seconds** in this order: 
-3. **View your total spending** and track individual expenses.
-4.  **Check the pie chart** for a visual breakdown of expenses.
-5. **Delete expenses** if needed and keep your budget in check!
-
-   ---
+   - 🔴 **Red:** *"Stop, the light is red."*  
+   - 🟡 **Yellow:** *"Get ready, the light is yellow."*  
+   - 🟢 **Green:** *"Walk now, the light is green."* (🔊 + 📳 Vibration on mobile)  
 ## 📜 Live Demo
 🔗 **[Try It Now](https://your-github-username.github.io/expense-tracker/)**  
 
