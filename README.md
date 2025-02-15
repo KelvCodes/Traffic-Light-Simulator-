@@ -22,7 +22,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 ---
 
 ## 🚀 How to Use 
-1. **Enter an expense amount, category, and description.**
+1. **Click "Start Simulation"** to begin the traffic light cycle. 
 2. **Click "Add Expense"** to store the entry.  
 3. **View your total spending** and track individual expenses.
 4.  **Check the pie chart** for a visual breakdown of expenses.
