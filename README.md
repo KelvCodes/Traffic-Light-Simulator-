@@ -28,6 +28,9 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
    - 🟡 **Yellow:** *"Get ready, the light is yellow."*  
    - 🟢 **Green:** *"Walk now, the light is green."* (🔊 + 📳 Vibration on mobile)
  3. **Click "Stop Simulation"** to pause the traffic light.
+
+    ---
+    
 ## 📜 Live Demo
 🔗 **[Try It Now](https://your-github-username.github.io/expense-tracker/)**  
 
