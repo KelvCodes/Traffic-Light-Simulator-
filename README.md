@@ -1,4 +1,4 @@
-# 🚦 Accessible Traffic Light Simulator 
+# 
 
 A **simple, interactive, and accessible** traffic light system designed for **pedestrians**, including **visually impaired users**.  
 This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic light with **voice alerts** and **haptic feedback (vibration on mobile devices)** for inclusivity. 
