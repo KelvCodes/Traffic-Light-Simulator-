@@ -57,7 +57,7 @@ The use of **Chart.js** provides **interactive visualizations**, and **CSS Flexb
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/traffic.git  
+   git clone https://github.com/yourusername/traffic-light.git  
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
