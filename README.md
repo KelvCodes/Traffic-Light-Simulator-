@@ -43,7 +43,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling and layout |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend interactivity |
 | ![Vibration API](https://img.shields.io/badge/Vibration%20API-9400D3?style=for-the-badge) | Haptic feedback for mobile users |
-
+| ![Speech Synthesis API](https://img.shields.io/badge/Speech%20Synthesis%20API-FF5733?style=for-the-badge) | Voice announcements for accessibility |
 | ![Flexbox & Grid](https://img.shields.io/badge/Flexbox%20&%20Grid-008080?style=for-the-badge) | Responsive UI layout |
 
 
