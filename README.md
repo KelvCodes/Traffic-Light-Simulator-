@@ -45,7 +45,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 | ![Local Storage](https://img.shields.io/badge/LocalStorage-FFA500?style=for-the-badge&logo=database&logoColor=white) | Saves data without a database |
 | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white) | Visual representation of expenses |
 | ![Flexbox & Grid](https://img.shields.io/badge/Flexbox%20&%20Grid-008080?style=for-the-badge) | Responsive UI layout |
-| ![Animations](https://img.shields.io/badge/Animations-9400D3?style=for-the-badge) | Smooth transitions and effects |
+
 
 ---
 🚀 **Why This Tech Stack?** 
