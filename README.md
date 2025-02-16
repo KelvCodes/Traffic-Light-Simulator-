@@ -61,7 +61,7 @@ The use of **Chart.js** provides **interactive visualizations**, and **CSS Flexb
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
-   No setup required—just play and have fun! 🎮  
+ 
 
 ---
 
