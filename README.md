@@ -32,7 +32,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
     ---
     
 ## 📜 Live Demo
-🔗 **[Try It Now](https://your-github-username.github.io/expense-tracker/)**  
+🔗 **[Try It Now](https://trafficlight-simulator-pro.netlify.app/)**  
 
 ---
 
