@@ -63,7 +63,7 @@ This app uses **HTML, CSS, and JavaScript** to simulate a real-world traffic lig
 
 ## 🤝 Contributing  
 
-Want to add new features or improve this Traffic L iweb app? We’d love your help! 💡  
+Want to add new features or improve this Traffic Liweb app? We’d love your help! 💡  
 
 1. Fork this repository.  
 2. Create a new branch:  
