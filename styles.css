@@ -1,11 +1,6 @@
 margin: 10px auto;
     border-radius: 50%;
-    background-color: grey;
-}
-
-.red.active {
-    background-color: red;
-}
+ 
 
 .yellow.active {
     background-color: yellow;
