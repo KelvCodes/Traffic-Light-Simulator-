@@ -1,6 +1,4 @@
-  greenLight.classList.add("active");
-            speak("Walk now, the light is green.");
-            vibrateFeedback();
+  gr  vibrateFeedback();
         }
 
         step = (step + 1) % 3;
