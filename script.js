@@ -1,6 +1,4 @@
-/ Function to update the traffic light
-furesetLights();
-        
+       
         if (step === 0) {
             redLight.classList.add("active");
             speak("Stop, the light is red.");
