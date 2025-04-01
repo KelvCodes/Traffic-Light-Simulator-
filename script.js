@@ -1,5 +1,3 @@
-ion to reset all lights
-function resetLights() {
     redLight.classList.remove("active");
     yellowLight.classList.remove("active");
     greenLight.classList.remove("active");
