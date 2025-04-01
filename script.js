@@ -1,5 +1,4 @@
- Function to stop the traffic light
-function stopTrafficLight() {
+ion stopTrafficLight() {
     clearInterval(interval);
     resetLights();
     statusMessage.textContent = "Simulation stopped.";
