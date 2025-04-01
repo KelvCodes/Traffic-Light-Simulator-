@@ -1,7 +1,4 @@
-       
-    speak("Get ready, the light is yellow.");
-        } else {
-            greenLight.classList.add("active");
+  greenLight.classList.add("active");
             speak("Walk now, the light is green.");
             vibrateFeedback();
         }
