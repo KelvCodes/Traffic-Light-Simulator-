@@ -1,8 +1,4 @@
-ion stopTrafficLight() {
-    clearInterval(interval);
-    resetLights();
-    statusMessage.textContent = "Simulation stopped.";
-    speak("Simulation stopped.");
+eak("Simulation stopped.");
 }
 
 // Function to provide voice feedback using Speech Synthesis API
