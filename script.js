@@ -1,6 +1,4 @@
-    redLight.classList.remove("active");
-    yellowLight.classList.remove("active");
-    greenLight.classList.remove("active");
+eenLight.classList.remove("active");
 }
 
 // Function to stop the traffic light
