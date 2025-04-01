@@ -1,8 +1,4 @@
-eak("Simulation stopped.");
-}
-
-// Function to provide voice feedback using Speech Synthesis API
-function speak(message) {
+ speak(message) {
     let speech = new SpeechSynthesisUtterance(message);
     speech.lang = "en-US";
     speech.volume = 1;
