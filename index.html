@@ -1,1 +1,80 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessible Traffic Light System</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Traffic Light Simulator 🚦</h1>
+            <button id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+        </header>
+
+        <main>
+            <div class="traffic-light">
+                <div class="light red" aria-label="Red Light"></div>
+                <div class="light yellow" aria-label="Yellow Light"></div>
+                <div class="light green" aria-label="Green Light"></div>
+            </div>
+
+            <div class="info-panel">
+                <p id="status-message">Press "Start" to begin</p>
+                <div class="timer-display">
+                    <span id="timer-label">Next change in:</span>
+                    <span id="countdown">3</span>s
+                </div>
+                <div class="controls-advanced">
+                    <label for="interval-slider">Cycle Speed (s):</label>
+                    <input type="range" id="interval-slider" min="1" max="10" value="3">
+                    <span id="interval-value">3</span>
+                </div>
+                <div class="random-toggle">
+                    <label for="random-mode">Random Mode:</label>
+                    <input type="checkbox" id="random-mode">
+                </div>
+            </div>
+
+            <div class="controls">
+                <button id="start">Start</button>
+                <button id="stop">Stop</button>
+                <button id="pause">Pause</button>
+                <button id="reset">Reset</button>
+            </div>
+
+            <div class="sequence-editor">
+                <h2>Custom Sequence</h2>
+                <input type="text" id="sequence-input" placeholder="e.g., R,Y,G,R" aria-label="Enter custom sequence">
+                <button id="apply-sequence">Apply</button>
+            </div>
+
+            <div class="stats">
+                <h2>Statistics</h2>
+                <p>Total Cycles: <span id="cycle-count">0</span></p>
+                <p>Red Time: <span id="red-time">0</span>s</p>
+                <p>Yellow Time: <span id="yellow-time">0</span>s</p>
+                <p>Green Time: <span id="green-time">0</span>s</p>
+            </div>
+
+            <div class="history-log">
+                <h2>Light History</h2>
+                <ul id="history-list"></ul>
+            </div>
+        </main>
+
+        <footer>
+            <p>Enhanced Accessibility & Interactivity | © 2025</p>
+        </footer>
+    </div>
+
+    <audio id="red-sound" src="https://www.soundjay.com/buttons/beep-01a.mp3"></audio>
+    <audio id="yellow-sound" src="https://www.soundjay.com/buttons/beep-02.mp3"></audio>
+    <audio id="green-sound" src="https://www.soundjay.com/buttons/beep-03.mp3"></audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
