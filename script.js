@@ -1,6 +1,4 @@
- startButton = document.getElementById("start");
-const stopButton = document.getElementById("stop");
-
+ startButt
 let interval;
 
 // Function to update the traffic light
