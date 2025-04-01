@@ -1,8 +1,5 @@
        
-        peak("Stop, the light is red.");
-        } else if (step === 1) {
-            yellowLight.classList.add("active");
-            speak("Get ready, the light is yellow.");
+    speak("Get ready, the light is yellow.");
         } else {
             greenLight.classList.add("active");
             speak("Walk now, the light is green.");
