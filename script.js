@@ -1,5 +1,3 @@
-  gr  vibrateFeedback();
-        }
 
         step = (step + 1) % 3;
     }, 3000); // Change light every 3 seconds
