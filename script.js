@@ -1,8 +1,5 @@
 / Function to update the traffic light
-function startTrafficLight() {
-    let step = 0;
-    interval = setInterval(() => {
-        resetLights();
+furesetLights();
         
         if (step === 0) {
             redLight.classList.add("active");
