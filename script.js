@@ -1,9 +1,4 @@
-
-        step = (step + 1) % 3;
-    }, 3000); // Change light every 3 seconds
-}
-
-// Function to reset all lights
+ion to reset all lights
 function resetLights() {
     redLight.classList.remove("active");
     yellowLight.classList.remove("active");
