@@ -1,7 +1,4 @@
- startButt
-let interval;
-
-// Function to update the traffic light
+/ Function to update the traffic light
 function startTrafficLight() {
     let step = 0;
     interval = setInterval(() => {
