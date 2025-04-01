@@ -1,7 +1,4 @@
-eenLight.classList.remove("active");
-}
-
-// Function to stop the traffic light
+ Function to stop the traffic light
 function stopTrafficLight() {
     clearInterval(interval);
     resetLights();
