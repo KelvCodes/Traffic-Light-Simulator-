@@ -1,6 +1,4 @@
-  window.speechSynthesis.speak(speech);
-    statusMessage.textContent = message;
-}
+
 
 // Function to provide vibration feedback (for mobile users)
 function vibrateFeedback() {
