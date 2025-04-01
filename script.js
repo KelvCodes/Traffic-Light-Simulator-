@@ -1,8 +1,4 @@
-const redLight = document.querySelector(".red");
-const yellowLight = document.querySelector(".yellow");
-const greenLight = document.querySelector(".green");
-const statusMessage = document.getElementById("status-message");
-const startButton = document.getElementById("start");
+ startButton = document.getElementById("start");
 const stopButton = document.getElementById("stop");
 
 let interval;
