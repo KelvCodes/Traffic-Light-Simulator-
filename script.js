@@ -1,7 +1,4 @@
-eech.volume = 1;
-    speech.rate = 1;
-    speech.pitch = 1;
-    window.speechSynthesis.speak(speech);
+  window.speechSynthesis.speak(speech);
     statusMessage.textContent = message;
 }
 
